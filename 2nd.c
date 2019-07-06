@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-    int i,j,k[0],temp=0;
+    int i,j,k[10],temp=0;
     //clrscr();
     printf("Enter 10 numbers\n");
 
