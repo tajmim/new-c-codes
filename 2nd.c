@@ -19,7 +19,7 @@ int main()
         }
     }
 
-
+printf("HE0llo yhesere");
 printf("\n");
 for(i=0;i<=9;i++)
 printf("%d ",k[i]);
